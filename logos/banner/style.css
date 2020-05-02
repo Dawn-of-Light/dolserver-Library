@@ -1,0 +1,20 @@
+/*
+Storm Description Banner - DAoC Portal
+Slider
+2/24/2010
+Rev 1
+*/
+a { color: #000; text-decoration: none; }
+a:hover { text-decoration: underline; }
+body { color: #333; font-size: 12px; font-family: arial, verdana, tahoma, sans-serif; margin: 0; padding: 0; background: #fff u; }
+div#container-custom-page { width: 902px; margin: 0 0 20px 0; padding: 19px 39px 0px 39px; background: #fff url(images/background-container.gif) repeat-x left top; border: 0px solid #ddd; }
+#slider { margin-left: 0px; }
+#slider ul, #slider li { margin: 0; padding: 0; list-style: none; }
+#slider li { width: 568px; height: 150px; overflow: hidden; }
+
+/* -- OverRide Settings -- */
+.p7TP_tabs {
+background: url(http://play.dolserver.net/description/portalFiles/tabs09_up.jpg);
+display:block;
+}
+

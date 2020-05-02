@@ -1,0 +1,480 @@
+*** Chat Log Opened: Mon Apr 12 11:48:35 2010
+
+[11:50:03] @@You say, "reaver taipan /cobra tests Live stats 192 str 168 dex 50 +12 flex 3.5 weapon"
+[11:50:03] You target [Slash]
+[11:50:03] You examine Slash.  It is neutral towards you.
+[11:50:05] You enter combat mode and target [the Slash]
+[11:50:05] The Slash is too far away to attack!
+[11:50:06] You attack Slash with your flail and hit for 63 damage!
+[11:50:06] You critical hit for an additional 51 damage!
+[11:50:07] Slash attacks you and you block the blow!
+[11:50:09] You attack Slash with your flail and hit for 55 damage!
+[11:50:10] Slash attacks you and misses!
+[11:50:10] You examine Slash.  It is neutral towards you.
+[11:50:10] Slash is busy right now!
+[11:50:13] Slash attacks you and misses!
+[11:50:16] Slash hits your torso for 67 (-19) damage!
+[11:50:19] Slash hits your arm for 63 (-18) damage!
+[11:50:22] Slash hits your leg for 70 (-20) damage!
+[11:50:25] Slash hits your hand for 67 (-19) damage!
+[11:50:29] Slash attacks you and misses!
+[11:50:32] Slash attacks you and misses!
+[11:50:35] Slash hits your hand for 67 (-19) damage!
+[11:50:38] Slash hits your torso for 90 (-25) damage!
+[11:50:41] Slash hits your leg for 83 (-23) damage!
+[11:50:44] Slash attacks you and misses!
+[11:50:47] Slash attacks you and misses!
+[11:50:51] Slash hits your arm for 92 (-26) damage!
+[11:51:15] You target [Crush]
+[11:51:15] You examine Crush.  It is neutral towards you.
+[11:51:27] You enter combat mode and target [the Crush]
+[11:51:27] You perform your Taipan perfectly. (+50)
+[11:51:27] You attack Crush with your flail and hit for 99 damage!
+[11:51:27] The Crush begins moving more slowly!
+[11:51:27] You prepare to perform a Cobra!
+[11:51:30] You perform your Cobra perfectly. (+48)
+[11:51:30] You attack Crush with your flail and hit for 98 damage!
+[11:51:30] You critical hit for an additional 9 damage!
+[11:51:30] You hit Crush for 226 damage!
+[11:51:30] You steal 262 hit points.
+[11:51:30] You prepare to perform a Taipan!
+[11:51:33] You perform your Taipan perfectly. (+54)
+[11:51:33] You attack Crush with your flail and hit for 108 damage!
+[11:51:33] The Crush begins moving more slowly!
+[11:51:33] You prepare to perform a Cobra!
+[11:51:36] You perform your Cobra perfectly. (+47)
+[11:51:36] You attack Crush with your flail and hit for 95 damage!
+[11:51:36] You hit Crush for 226 damage!
+[11:51:36] You steal 241 hit points.
+[11:51:36] You prepare to perform a Taipan!
+[11:51:39] You perform your Taipan perfectly. (+50)
+[11:51:39] You attack Crush with your flail and hit for 99 damage!
+[11:51:39] The Crush begins moving more slowly!
+[11:51:40] You prepare to perform a Cobra!
+[11:51:42] You perform your Cobra perfectly. (+65)
+[11:51:42] You attack Crush with your flail and hit for 131 damage!
+[11:51:42] You hit Crush for 226 damage!
+[11:51:42] You steal 248 hit points.
+[11:51:43] You prepare to perform a Taipan!
+[11:51:45] You perform your Taipan perfectly. (+59)
+[11:51:45] You attack Crush with your flail and hit for 118 damage!
+[11:51:45] The Crush begins moving more slowly!
+[11:51:45] You prepare to perform a Cobra!
+[11:51:48] You perform your Cobra perfectly. (+50)
+[11:51:48] You attack Crush with your flail and hit for 101 damage!
+[11:51:48] You hit Crush for 226 damage!
+[11:51:48] You steal 73 hit points.
+[11:51:54] Slash hits your leg for 78 (-22) damage!
+[11:51:57] Slash hits your head for 65 (-18) damage!
+[11:52:28] You enter combat mode and target [the Crush]
+[11:52:28] You perform your Taipan perfectly. (+55)
+[11:52:28] You attack Crush with your flail and hit for 110 damage!
+[11:52:28] The Crush begins moving more slowly!
+[11:52:29] You prepare to perform a Cobra!
+[11:52:31] You perform your Cobra perfectly. (+54)
+[11:52:31] You attack Crush with your flail and hit for 110 damage!
+[11:52:31] You hit Crush for 226 damage!
+[11:52:31] You steal 248 hit points.
+[11:52:32] You prepare to perform a Taipan!
+[11:52:34] You perform your Taipan perfectly. (+54)
+[11:52:34] You attack Crush with your flail and hit for 107 damage!
+[11:52:34] The Crush begins moving more slowly!
+[11:52:35] You prepare to perform a Cobra!
+[11:52:37] You perform your Cobra perfectly. (+51)
+[11:52:37] You attack Crush with your flail and hit for 103 damage!
+[11:52:37] You hit Crush for 226 damage!
+[11:52:37] You steal 266 hit points.
+[11:52:38] You prepare to perform a Taipan!
+[11:52:40] You perform your Taipan perfectly. (+64)
+[11:52:40] You attack Crush with your flail and hit for 128 damage!
+[11:52:40] The Crush begins moving more slowly!
+[11:52:41] You prepare to perform a Taipan!
+[11:52:43] You perform your Taipan perfectly. (+53)
+[11:52:43] You attack Crush with your flail and hit for 106 damage!
+[11:52:43] The Crush begins moving more slowly!
+[11:52:45] You prepare to perform a Cobra!
+[11:52:46] You perform your Cobra perfectly. (+57)
+[11:52:46] You attack Crush with your flail and hit for 114 damage!
+[11:52:46] You hit Crush for 226 damage!
+[11:52:46] You steal 264 hit points.
+[11:52:47] You prepare to perform a Taipan!
+[11:52:49] You perform your Taipan perfectly. (+68)
+[11:52:49] You attack Crush with your flail and hit for 134 damage!
+[11:52:49] The Crush begins moving more slowly!
+[11:52:50] You prepare to perform a Cobra!
+[11:52:52] You perform your Cobra perfectly. (+66)
+[11:52:52] You attack Crush with your flail and hit for 133 damage!
+[11:52:52] You hit Crush for 226 damage!
+[11:52:52] You steal 208 hit points.
+
+*** Chat Log Closed: Mon Apr 12 11:52:57 2010
+
+
+*** Chat Log Opened: Tue Apr 13 22:22:32 2010
+
+[22:23:13] @@You say, "storm reaver taipan/cobra tests Storm 44+14 flex 206 str 213 dex 4.0 weapon"
+[22:23:15] You target [Level 50].
+[22:23:15] You examine Level 50. It is neutral towards you.
+[22:23:17] You enter combat mode and target [Level 50]
+[22:23:17] You prepare to perform a Taipan!
+[22:23:18] You perform your Taipan perfectly!  (+88)
+[22:23:18] You attack Level 50 with your fury and hit for 183 damage!
+[22:23:18] Your duel ends!
+[22:23:18] Level 50 begins moving more slowly!
+[22:23:18] You prepare to perform a Cobra!
+[22:23:21] You perform your Cobra perfectly!  (+87)
+[22:23:21] You attack Level 50 with your fury and hit for 181 damage!
+[22:23:21] You hit Level 50 for 213 damage!
+[22:23:21] You steal 213 hit points.
+[22:23:22] You prepare to perform a Taipan!
+[22:23:25] You perform your Taipan perfectly!  (+88)
+[22:23:25] You hit Level 50 for 134 damage!
+[22:23:25] You steal 134 hit points.
+[22:23:25] You steal 8 endurance.
+[22:23:25] Your power is already full.
+[22:23:25] You attack Level 50 with your fury and hit for 183 damage!
+[22:23:25] Level 50 begins moving more slowly!
+[22:23:25] You prepare to perform a Cobra!
+[22:23:28] You perform your Cobra perfectly!  (+96)
+[22:23:28] You attack Level 50 with your fury and hit for 200 damage!
+[22:23:28] You hit Level 50 for 213 damage!
+[22:23:28] You steal 213 hit points.
+[22:23:30] You prepare to perform a Taipan!
+[22:23:31] You perform your Taipan perfectly!  (+73)
+[22:23:31] You hit Level 50 for 134 damage!
+[22:23:31] You steal 134 hit points.
+[22:23:31] You steal 8 endurance.
+[22:23:31] Your power is already full.
+[22:23:31] You attack Level 50 with your fury and hit for 153 damage!
+[22:23:31] Level 50 begins moving more slowly!
+[22:23:32] You prepare to perform a Cobra!
+[22:23:35] You perform your Cobra perfectly!  (+72)
+[22:23:35] You attack Level 50 with your fury and hit for 150 damage!
+[22:23:35] You hit Level 50 for 213 damage!
+[22:23:35] You steal 80 hit points.
+[22:23:45] You target [Phen].
+[22:23:45] You examine Phen. He is a member of the Sorcerer class in your realm.
+[22:23:47] You challenge Phen to a duel!
+[22:23:49] Phen accepts the duel.  Begin fighting!
+[22:23:51] Phen casts a spell!
+[22:23:51] You resist the effect!
+[22:23:53] Phen casts a spell!
+[22:23:53] Phen hits you for 644 damage!
+[22:23:57] Phen casts a spell!
+[22:23:57] Phen hits you for 644 damage!
+[22:24:00] You target [Level 50].
+[22:24:00] You examine Level 50. It is neutral towards you.
+[22:24:01] You enter combat mode and target [Level 50]
+[22:24:01] You prepare to perform a Taipan!
+[22:24:02] You perform your Taipan perfectly!  (+92)
+[22:24:02] You hit Level 50 for 134 damage!
+[22:24:02] You steal 134 hit points.
+[22:24:02] You steal 5 endurance.
+[22:24:02] Your power is already full.
+[22:24:02] You attack Level 50 with your fury and hit for 192 damage!
+[22:24:02] You critical hit Level 50 for an additional 100 damage!
+[22:24:02] Your duel ends!
+[22:24:02] Level 50 begins moving more slowly!
+[22:24:02] You prepare to perform a Cobra!
+[22:24:05] You perform your Cobra perfectly!  (+79)
+[22:24:05] You hit Level 50 for 134 damage!
+[22:24:05] You steal 134 hit points.
+[22:24:05] You steal 5 endurance.
+[22:24:05] Your power is already full.
+[22:24:05] You attack Level 50 with your fury and hit for 164 damage!
+[22:24:05] You hit Level 50 for 213 damage!
+[22:24:05] You steal 213 hit points.
+[22:24:06] You prepare to perform a Taipan!
+[22:24:09] You perform your Taipan perfectly!  (+78)
+[22:24:09] Level 50 is surrounded by a corrosive mist!
+[22:24:09] You attack Level 50 with your fury and hit for 162 damage!
+[22:24:09] Level 50 begins moving more slowly!
+[22:24:10] You prepare to perform a Cobra!
+[22:24:12] You perform your Cobra perfectly!  (+96)
+[22:24:12] You attack Level 50 with your fury and hit for 200 damage!
+[22:24:12] You critical hit Level 50 for an additional 119 damage!
+[22:24:12] You hit Level 50 for 213 damage!
+[22:24:12] You steal 213 hit points.
+[22:24:13] You prepare to perform a Taipan!
+[22:24:15] You perform your Taipan perfectly!  (+91)
+[22:24:15] You attack Level 50 with your fury and hit for 189 damage!
+[22:24:15] You critical hit Level 50 for an additional 149 damage!
+[22:24:15] Level 50 begins moving more slowly!
+[22:24:16] You prepare to perform a Cobra!
+[22:24:19] You perform your Cobra perfectly!  (+123)
+[22:24:19] Level 50 is surrounded by a corrosive mist!
+[22:24:19] You hit Level 50 for 134 damage!
+[22:24:19] You steal 134 hit points.
+[22:24:19] You steal 11 endurance.
+[22:24:19] Your power is already full.
+[22:24:19] You attack Level 50 with your fury and hit for 256 damage!
+[22:24:19] You hit Level 50 for 213 damage!
+[22:24:19] You steal 213 hit points.
+[22:24:20] You prepare to perform a Taipan!
+[22:24:22] You perform your Taipan perfectly!  (+122)
+[22:24:22] You attack Level 50 with your fury and hit for 254 damage!
+[22:24:22] You critical hit Level 50 for an additional 212 damage!
+[22:24:22] Level 50 begins moving more slowly!
+[22:24:22] You prepare to perform a Cobra!
+[22:24:25] You perform your Cobra perfectly!  (+121)
+[22:24:25] You attack Level 50 with your fury and hit for 252 damage!
+[22:24:25] You critical hit Level 50 for an additional 167 damage!
+[22:24:25] You hit Level 50 for 213 damage!
+[22:24:25] You steal 105 hit points.
+[22:24:32] You target [Phen].
+[22:24:32] You examine Phen. He is a member of the Sorcerer class in your realm.
+[22:24:34] You challenge Phen to a duel!
+[22:24:35] Phen accepts the duel.  Begin fighting!
+[22:24:37] Phen casts a spell!
+[22:24:37] Phen hits you for 644 damage!
+[22:24:39] @@[IRC] Helllowwww: ????
+[22:24:40] Phen casts a spell!
+[22:24:40] Phen hits you for 644 damage!
+[22:24:41] You target [Level 50].
+[22:24:41] You examine Level 50. It is neutral towards you.
+[22:24:42] You enter combat mode and target [Level 50]
+[22:24:42] You prepare to perform a Taipan!
+[22:24:42] You perform your Taipan perfectly!  (+102)
+[22:24:42] You attack Level 50 with your fury and hit for 213 damage!
+[22:24:42] Your duel ends!
+[22:24:42] Level 50 begins moving more slowly!
+[22:24:43] You prepare to perform a Cobra!
+[22:24:46] You perform your Cobra perfectly!  (+98)
+[22:24:46] Level 50 is surrounded by a corrosive mist!
+[22:24:46] You attack Level 50 with your fury and hit for 204 damage!
+[22:24:46] You critical hit Level 50 for an additional 60 damage!
+[22:24:46] You hit Level 50 for 213 damage!
+[22:24:46] You steal 213 hit points.
+[22:24:46] You prepare to perform a Taipan!
+[22:24:49] You perform your Taipan perfectly!  (+123)
+[22:24:49] Level 50 is surrounded by a corrosive mist!
+[22:24:49] You attack Level 50 with your fury and hit for 256 damage!
+[22:24:49] Level 50 begins moving more slowly!
+[22:24:50] You prepare to perform a Cobra!
+[22:24:52] You perform your Cobra perfectly!  (+118)
+[22:24:52] You attack Level 50 with your fury and hit for 245 damage!
+[22:24:52] You hit Level 50 for 213 damage!
+[22:24:52] You steal 213 hit points.
+[22:24:53] You prepare to perform a Taipan!
+[22:24:56] You perform your Taipan perfectly!  (+97)
+[22:24:56] Level 50 is surrounded by a corrosive mist!
+[22:24:56] You attack Level 50 with your fury and hit for 202 damage!
+[22:24:56] Level 50 begins moving more slowly!
+[22:24:56] You prepare to perform a Cobra!
+[22:24:59] You perform your Cobra perfectly!  (+101)
+[22:24:59] You attack Level 50 with your fury and hit for 210 damage!
+[22:24:59] You hit Level 50 for 213 damage!
+[22:24:59] You steal 213 hit points.
+[22:25:00] You prepare to perform a Taipan!
+[22:25:02] You perform your Taipan perfectly!  (+91)
+[22:25:02] You attack Level 50 with your fury and hit for 189 damage!
+[22:25:02] Level 50 begins moving more slowly!
+[22:25:03] You prepare to perform a Cobra!
+[22:25:06] You perform your Cobra perfectly!  (+89)
+[22:25:06] You attack Level 50 with your fury and hit for 185 damage!
+[22:25:06] You critical hit Level 50 for an additional 185 damage!
+[22:25:06] You hit Level 50 for 213 damage!
+[22:25:06] You steal 213 hit points.
+[22:25:07] You prepare to perform a Taipan!
+[22:25:09] You perform your Taipan perfectly!  (+112)
+[22:25:09] You attack Level 50 with your fury and hit for 233 damage!
+[22:25:09] You critical hit Level 50 for an additional 135 damage!
+[22:25:09] Level 50 begins moving more slowly!
+[22:25:10] You prepare to perform a Cobra!
+[22:25:12] You perform your Cobra perfectly!  (+108)
+[22:25:12] You attack Level 50 with your fury and hit for 224 damage!
+[22:25:12] You critical hit Level 50 for an additional 202 damage!
+[22:25:12] You hit Level 50 for 213 damage!
+[22:25:12] You steal 213 hit points.
+[22:25:13] @@[IRC] Helllowwww: i need talk in advice wath commande i use ?
+[22:25:14] You prepare to perform a Taipan!
+[22:25:16] You perform your Taipan perfectly!  (+106)
+[22:25:16] You attack Level 50 with your fury and hit for 220 damage!
+[22:25:16] Level 50 begins moving more slowly!
+[22:25:22] You attempt to use the Strong Potion of Speed.
+[22:25:22] the Strong Potion of Speed has been used.
+[22:25:24] You target [Phen].
+[22:25:24] You examine Phen. He is a member of the Sorcerer class in your realm.
+[22:25:26] You challenge Phen to a duel!
+[22:25:29] Phen accepts the duel.  Begin fighting!
+[22:25:31] Phen casts a spell!
+[22:25:31] You resist the effect!
+[22:25:33] Phen casts a spell!
+[22:25:33] Phen hits you for 644 damage!
+[22:25:35] Phen casts a spell!
+[22:25:35] Phen hits you for 644 damage!
+[22:25:37] You target [Level 50].
+[22:25:37] You examine Level 50. It is neutral towards you.
+[22:25:37] You enter combat mode and target [Level 50]
+[22:25:37] You prepare to perform a Taipan!
+[22:25:38] You perform your Taipan perfectly!  (+99)
+[22:25:38] You attack Level 50 with your fury and hit for 231 damage!
+[22:25:38] Your duel ends!
+[22:25:38] Level 50 begins moving more slowly!
+[22:25:38] You prepare to perform a Cobra!
+[22:25:40] You perform your Cobra perfectly!  (+87)
+[22:25:40] You hit Level 50 for 134 damage!
+[22:25:40] You steal 134 hit points.
+[22:25:40] You steal 8 endurance.
+[22:25:40] Your power is already full.
+[22:25:40] You attack Level 50 with your fury and hit for 203 damage!
+[22:25:40] You hit Level 50 for 213 damage!
+[22:25:40] You steal 213 hit points.
+[22:25:41] You prepare to perform a Taipan!
+[22:25:43] You perform your Taipan perfectly!  (+81)
+[22:25:43] You attack Level 50 with your fury and hit for 189 damage!
+[22:25:43] You critical hit Level 50 for an additional 76 damage!
+[22:25:43] Level 50 begins moving more slowly!
+[22:25:44] You prepare to perform a Cobra!
+[22:25:46] You perform your Cobra perfectly!  (+95)
+[22:25:46] You attack Level 50 with your fury and hit for 222 damage!
+[22:25:46] You hit Level 50 for 213 damage!
+[22:25:46] You steal 213 hit points.
+[22:25:47] You prepare to perform a Taipan!
+[22:25:48] You perform your Taipan perfectly!  (+99)
+[22:25:48] You attack Level 50 with your fury and hit for 231 damage!
+[22:25:48] You critical hit Level 50 for an additional 185 damage!
+[22:25:49] Level 50 begins moving more slowly!
+[22:25:49] You prepare to perform a Cobra!
+[22:25:51] You perform your Cobra perfectly!  (+84)
+[22:25:51] You attack Level 50 with your fury and hit for 196 damage!
+[22:25:51] You critical hit Level 50 for an additional 139 damage!
+[22:25:51] You hit Level 50 for 213 damage!
+[22:25:51] You steal 213 hit points.
+[22:25:52] You prepare to perform a Taipan!
+[22:25:54] You perform your Taipan perfectly!  (+89)
+[22:25:54] You attack Level 50 with your fury and hit for 207 damage!
+[22:25:54] Level 50 begins moving more slowly!
+[22:25:55] You prepare to perform a Cobra!
+[22:25:56] The corrosive mist around Level 50 dissipates.
+[22:25:57] You perform your Cobra perfectly!  (+67)
+[22:25:57] You attack Level 50 with your fury and hit for 157 damage!
+[22:25:57] You hit Level 50 for 213 damage!
+[22:25:57] You steal 213 hit points.
+[22:25:58] You prepare to perform a Taipan!
+[22:25:59] You perform your Taipan perfectly!  (+62)
+[22:25:59] You attack Level 50 with your fury and hit for 145 damage!
+[22:25:59] Level 50 begins moving more slowly!
+[22:26:00] You prepare to perform a Cobra!
+[22:26:02] You perform your Cobra perfectly!  (+70)
+[22:26:02] You attack Level 50 with your fury and hit for 164 damage!
+[22:26:02] You hit Level 50 for 213 damage!
+[22:26:02] You steal 158 hit points.
+[22:27:05] Your character has been saved.
+[22:28:17] You destroy the Blacksmith Scroll.
+[22:28:20] You destroy the Merchant Scroll.
+[22:28:32] [Albion] Sarice just entered the game!
+[22:28:34] You destroy the Defiled Sanquine Crown.
+[22:28:41] @@[IRC] Mudbone: Phen on?
+[22:29:12]  You accept the trade.
+[22:29:15] Phen has accepted the trade.
+[22:29:15] Trade Completed. 0 items for 5 items.
+[22:29:19] You attempt to use the Superior Elixir of Strength.
+[22:29:19] You feel stronger!
+[22:29:19] the Superior Elixir of Strength has been used.
+[22:29:22] You attempt to use the Superior Elixir of Might.
+[22:29:22] You must wait 2 more second before use potion!
+[22:29:29] @@[IRC] Devo: matter of fact i am
+[22:29:35] You attempt to use the Superior Elixir of Might.
+[22:29:35] You feel stronger!
+[22:29:35] the Superior Elixir of Might has been used.
+[22:29:36] @@[IRC] Nones: hi phen
+[22:29:38] You attempt to use the Superior Elixir of Fortitude.
+[22:29:38] You must wait 1 more second before use potion!
+[22:29:40] You attempt to use the Superior Elixir of Fortitude.
+[22:29:40] You look more healthy!
+[22:29:40] the Superior Elixir of Fortitude has been used.
+[22:29:43] You attempt to use the Superior Elixir of Deftness.
+[22:29:43] You must wait 2 more second before use potion!
+[22:29:45] You attempt to use the Superior Elixir of Deftness.
+[22:29:45] You must wait 0 more second before use potion!
+[22:29:46] You attempt to use the Superior Elixir of Deftness.
+[22:29:46] You feel more dextrous!
+[22:29:46] the Superior Elixir of Deftness has been used.
+[22:29:51] You attempt to use the Superior Elixir of Dexterity.
+[22:29:51] You feel more dextrous!
+[22:29:51] the Superior Elixir of Dexterity has been used.
+[22:29:54] @@[IRC] Devo: hello
+
+
+
+[22:30:29] @@You say, "reaver taipan/cobra tests 44+14 flex str 291 dex 298 4.0 weapon"
+[22:30:32] You target [Phen].
+[22:30:32] You examine Phen. He is a member of the Sorcerer class in your realm.
+[22:30:38] @@[IRC] Nones: <---- skouty just making a warden
+[22:30:45] You challenge Phen to a duel!
+[22:30:51] Phen accepts the duel.  Begin fighting!
+[22:30:53] Phen casts a spell!
+[22:30:53] Phen hits you for 644 damage!
+[22:30:53] Phen critical hits you for an additionnal 245 damage!
+[22:30:57] Phen casts a spell!
+[22:30:57] Phen hits you for 644 damage!
+[22:30:58] You target [Level 50].
+[22:30:58] You examine Level 50. It is neutral towards you.
+[22:31:00] You enter combat mode and target [Level 50]
+[22:31:00] You prepare to perform a Taipan!
+[22:31:00] You perform your Taipan perfectly!  (+69)
+[22:31:00] You attack Level 50 with your fury and hit for 173 damage!
+[22:31:00] Your duel ends!
+[22:31:00] Level 50 begins moving more slowly!
+[22:31:01] You prepare to perform a Cobra!
+[22:31:03] You perform your Cobra perfectly!  (+83)
+[22:31:03] You attack Level 50 with your fury and hit for 207 damage!
+[22:31:03] You hit Level 50 for 233 damage!
+[22:31:03] You steal 233 hit points.
+[22:31:04] You prepare to perform a Taipan!
+[22:31:05] You perform your Taipan perfectly!  (+70)
+[22:31:05] You attack Level 50 with your fury and hit for 176 damage!
+[22:31:05] You critical hit Level 50 for an additional 84 damage!
+[22:31:05] Level 50 begins moving more slowly!
+[22:31:06] You prepare to perform a Cobra!
+[22:31:08] You perform your Cobra perfectly!  (+72)
+[22:31:08] You attack Level 50 with your fury and hit for 181 damage!
+[22:31:08] You hit Level 50 for 233 damage!
+[22:31:08] You steal 233 hit points.
+[22:31:08] You prepare to perform a Taipan!
+[22:31:10] You perform your Taipan perfectly!  (+78)
+[22:31:10] Level 50 is surrounded by a corrosive mist!
+[22:31:10] Level 50 resists the effect!
+[22:31:10] You attack Level 50 with your fury and hit for 194 damage!
+[22:31:10] Level 50 begins moving more slowly!
+[22:31:11] You prepare to perform a Cobra!
+[22:31:12] You perform your Cobra perfectly!  (+92)
+[22:31:12] You attack Level 50 with your fury and hit for 230 damage!
+[22:31:12] You hit Level 50 for 233 damage!
+[22:31:12] You steal 233 hit points.
+[22:31:13] You prepare to perform a Taipan!
+[22:31:15] You perform your Taipan perfectly!  (+84)
+[22:31:15] Level 50 resists the effect!
+[22:31:15] You attack Level 50 with your fury and hit for 209 damage!
+[22:31:15] Level 50 begins moving more slowly!
+[22:31:15] You prepare to perform a Cobra!
+[22:31:17] You perform your Cobra perfectly!  (+109)
+[22:31:17] You attack Level 50 with your fury and hit for 271 damage!
+[22:31:17] You hit Level 50 for 233 damage!
+[22:31:17] You steal 233 hit points.
+[22:31:18] You prepare to perform a Taipan!
+[22:31:20] You perform your Taipan perfectly!  (+94)
+[22:31:20] You attack Level 50 with your fury and hit for 234 damage!
+[22:31:20] Level 50 begins moving more slowly!
+[22:31:20] You prepare to perform a Cobra!
+[22:31:22] You perform your Cobra perfectly!  (+86)
+[22:31:22] Level 50 is surrounded by a corrosive mist!
+[22:31:22] You attack Level 50 with your fury and hit for 215 damage!
+[22:31:22] You hit Level 50 for 233 damage!
+[22:31:22] You steal 233 hit points.
+[22:31:22] @@[IRC] Devo: nice
+[22:31:23] You prepare to perform a Taipan!
+[22:31:25] You perform your Taipan perfectly!  (+78)
+[22:31:25] You attack Level 50 with your fury and hit for 194 damage!
+[22:31:25] You critical hit Level 50 for an additional 74 damage!
+[22:31:25] Level 50 begins moving more slowly!
+[22:31:25] You prepare to perform a Cobra!
+[22:31:27] You perform your Cobra perfectly!  (+90)
+[22:31:27] You attack Level 50 with your fury and hit for 224 damage!
+[22:31:27] You hit Level 50 for 233 damage!
+[22:31:27] You steal 197 hit points.
+
+*** Chat Log Closed: Tue Apr 13 22:31:41 2010
+
+
